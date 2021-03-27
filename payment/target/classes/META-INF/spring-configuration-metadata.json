@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.sofrecom.payment.infrastructure.configuration.PaymentServiceSettings",
+      "name": "payment-config",
+      "type": "com.sofrecom.payment.infrastructure.configuration.PaymentServiceSettings"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.sofrecom.payment.infrastructure.configuration.PaymentServiceSettings",
+      "name": "payment-config.supported-accounts",
+      "type": "java.util.List<java.lang.String>"
+    }
+  ]
+}
